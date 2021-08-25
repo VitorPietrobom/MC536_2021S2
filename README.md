@@ -14,7 +14,7 @@ Estrutura de pastas:
 
 ## `lab01`
 
-> [notebook_file](notebook/lab01.ipynb)
+> [notebook_file](lab01/notebook/lab01.ipynb)
 
-## Tarefa 2 sobre Engenharia Reversa
-> <img src="images/Lab01.PNG">
+## Tarefa 2
+> <img src="lab01/images/Lab01.PNG">
