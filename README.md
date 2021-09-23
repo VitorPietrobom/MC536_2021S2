@@ -13,3 +13,6 @@
   ### Tarefa 1 - 4
   > [notebook_file](lab02/lab2_logic_model_dbpedia.ipynb)
 
+## `lab03`
+  ### Tarefa 1 - 3
+  > [notebook_file](lab03/lab03-nhanes.ipynb)
