@@ -16,3 +16,7 @@
 ## `lab03`
   ### Tarefa 1 - 3
   > [notebook_file](lab03/lab03-nhanes.ipynb)
+
+## `lab04`
+  ### Tarefa 1 - 2
+  > [notebook_file](lab04/lab04-sql-advanced.ipynb)
