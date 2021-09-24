@@ -23,4 +23,4 @@
   
 ## `lab05`
   ### Tarefa 1 - 2
-  > [readme](lab05/readme.md)
+  > [readme](lab05/README.md)
