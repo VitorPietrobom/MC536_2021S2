@@ -20,7 +20,3 @@
 ## `lab04`
   ### Tarefa 1 - 2
   > [notebook_file](lab04/lab04-sql-advanced.ipynb)
-
-## `lab05`
-  ### Tarefa 1 - 2
-  > [readme](lab05/readme.md)
