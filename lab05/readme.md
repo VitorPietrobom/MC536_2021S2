@@ -18,7 +18,5 @@ Escreva em Cypher uma consulta que retorne os marcadores da categoria `Serviços
 
 ### Resolução
 ~~~cypher
-MATCH (c:Categoria {id:"Serviços"})
-MATCH (a:Categoria)-[:Superior*1..3]->(c)
-MATCH (m:Marcador) WHERE (m)--(a) OR (m)--(c) RETURN m
+MATCH (c:Categoria {id:"Serviços"}) MATCH (a:Categoria)-[:Superior*1..3]->(c) MATCH (m:Marcador) WHERE (m)--(a) OR (m)--(c) RETURN m
 ~~~
