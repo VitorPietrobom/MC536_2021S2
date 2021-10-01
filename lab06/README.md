@@ -1,12 +1,4 @@
-# Modelo para Apresentação do Lab06 - Artigo de Dataset Público
-
-Estrutura de pastas:
-
-~~~
-├── README.md  <- arquivo apresentando a tarefa
-│
-└── images     <- arquivos de imagem usados na tarefa (se houver)
-~~~
+# Lab06 - Artigo de Dataset Público
 
 # Aluno
 * `245584`: `Vitor Rodrigues Pietrobom`
@@ -15,7 +7,7 @@ Estrutura de pastas:
 
 | campo | valor |
 |------------|----------------------------------------|
-| referência | `<referência bibliográfica do artigo>` |
+| referência | `	Mariana O. Silva, La ́ıs M. Rocha, Mirella M. Moro. MusicOSet: An Enhanced Open Dataset for Music Data Mining. SBBD - ISSN, 2016. Disponível em: <https://drive.google.com/file/d/1nemQ20RsXbBYNX5_SSKk2I7BfnheeuSg/view>. Disponivel em 30 de set de 2021.` |
 | link       | `https://drive.google.com/file/d/1nemQ20RsXbBYNX5_SSKk2I7BfnheeuSg/view` |
 | dataset | `https://marianaossilva.github.io/DSW2019/` |
 | formato | `.csv` |
