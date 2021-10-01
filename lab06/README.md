@@ -18,8 +18,10 @@
 
 ## Perguntas de pesquisa/análises
 
-> Escreva de forma resumida que perguntas de pesquisa/análises podem ser feitas com o dataset.
+> O próprio artigo demonstra um possível uso forte do dataset, que é utilizar este para prever musicas que iram popularizar com velocidade baseado em suas caracteristicas, inclusive em sua letra.
+> Outro possível uso é a análise comparativa de músicas num nível muito maior por parte de produtores musicais e afins, podendo ver o peso de cada caracteristica musical com mais clareza
 
 ## Trabalhos relacionados
 
-> Relacione outras iniciativas relacionadas com a do artigo que tenham sido mencionadas no mesmo.
+> Bertin-Mahieux, T. et al. (2011). The Million Song Dataset. In Proceedings of the 12th International Conference on Music Information Retrieval
+> Gemmeke, J. F. et al. (2017). Audio set: An ontology and human-labeled dataset for audio events. In 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
