@@ -7,14 +7,14 @@
 
 | campo | valor |
 |------------|----------------------------------------|
-| referência | `	Mariana O. Silva, La ́ıs M. Rocha, Mirella M. Moro. MusicOSet: An Enhanced Open Dataset for Music Data Mining. SBBD - ISSN, 2016. Disponível em: <https://drive.google.com/file/d/1nemQ20RsXbBYNX5_SSKk2I7BfnheeuSg/view>. Disponivel em 30 de set de 2021.` |
+| referência | `	Mariana O. Silva, La ́ıs M. Rocha, Mirella M. Moro. MusicOSet: An Enhanced Open Dataset for Music Data Mining. SBBD - ISSN, 2019. Disponível em: <https://drive.google.com/file/d/1nemQ20RsXbBYNX5_SSKk2I7BfnheeuSg/view>. Disponivel em 30 de set de 2021.` |
 | link       | `https://drive.google.com/file/d/1nemQ20RsXbBYNX5_SSKk2I7BfnheeuSg/view` |
 | dataset | `https://marianaossilva.github.io/DSW2019/` |
-| formato | `.csv` |
+| formato | `banco de dados SQL e .csv` |
 
 ## Resumo
 
-> Resumo do artigo com as suas palavras (não deve ser copiado total ou parcialmente o resumo do artigo).
+> O artigo busca informar sobre o dataset chamado de MusicOSet, um dataset criado a partir de diversas fontes para facilitar a mineração de dados sobre musica, uma vez que este traz, além de campos populares em datasets da área, informações sobre a popularidade da música, isto para músicas de 1962 até 2018 (Isto atualizado em dezembro de 2018), ademais, este também está disponível uma análise analítica do dataset, tambeém facilitando a mineração dos dados. O dataset conta com inúmeras informações sobre musicas, artistas, albuns e generos no campo de popularidade, no campo de aspectos musicais, são disponibilizados fatores acusticos e as letras das musicas, algo que serve como diferencial para muitos bancos de musica. O artigo também fala sobre a criação deste, demonstrando a divisão inicíal em 3 partes feita e o periodo de coleta. Uma dificuldade apresentada no texto é referente a heterogenia das fontes utilizadas para formar o MusicOSet, uma vez que isso causa inúmeros campos ao longo do dataset a ficarem vazios, outra dificuldade notoria foi a dificuldade em abranger mais musicas, uma vez que as fontes tendiam a focar nas musicas mais famosas e populares.
 
 ## Perguntas de pesquisa/análises
 
