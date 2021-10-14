@@ -16,7 +16,6 @@ Estrutura de pastas:
 
 ## Perguntas de Pesquisa/análise
 
-> Liste aqui as três perguntas de pesquisa/análise
 > * As fobias influenciam no gosto musical?
 > * Como os interesses da pessoa influencia o gosto musical dela?
 > * A escolaridade tem influência no gosto musical?
